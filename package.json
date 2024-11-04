@@ -42,13 +42,13 @@
   },
   "dependencies": {
     "@ecomplus/storefront-template": "^2.0.0-beta.275",
-    "@fontsource-variable/encode-sans": "^5.0.13",
+    "@fontsource-variable/encode-sans": "^5.1.0",
     "@netlify/zip-it-and-ship-it": "^8.10.0",
     "firebase-tools": "^11.30.0",
     "perfect-debounce": "^1.0.0"
   },
   "devDependencies": {
     "browser-sync": "^2.29.3",
-    "standard": "^17.1.0"
+    "standard": "^17.1.2"
   }
 }
