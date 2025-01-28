@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.976e4d67185577fa0f733bb588148417.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.e3185b8221e57c8dee9616e2afc72fae.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.71dff7778fc2fd1cc376c1462c3025c7.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b030dcdb748c11149a27820754b3b5d8.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ada7453127445627fdebb002d2356c96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Tendas Robust",
+  "short_name": "tendasrobust",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "tendasrobust",
+  "background_color": "#ffffff",
+  "theme_color": "#222831"
+}
